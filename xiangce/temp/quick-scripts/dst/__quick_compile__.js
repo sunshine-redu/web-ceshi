@@ -1,6 +1,6 @@
 
 (function () {
-var scripts = [{"deps":{"./assets/Script/Helloworld":1,"./assets/migration/use_v2.1-2.2.1_cc.Toggle_event":2},"path":"preview-scripts/__qc_index__.js"},{"deps":{},"path":"preview-scripts/assets/Script/Helloworld.js"},{"deps":{},"path":"preview-scripts/assets/migration/use_v2.1-2.2.1_cc.Toggle_event.js"}];
+var scripts = [{"deps":{},"path":"preview-scripts/__qc_index__.js"}];
 var entries = ["preview-scripts/__qc_index__.js"];
 
 /**
